@@ -1,0 +1,16 @@
+# Node / TypeScript
+node_modules/
+dist/
+coverage/
+*.log
+npm-debug.log*
+
+# Env & local config
+.env
+.env.*
+*.local
+.vscode/
+
+# OS cruft
+.DS_Store
+Thumbs.db
